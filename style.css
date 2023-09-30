@@ -1,0 +1,23 @@
+body{   
+    background: #eee;  
+}  
+
+.container{
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;
+}
+button{
+    color: white;
+    background-color: blue;
+    
+
+}
+input{
+    text-decoration: none;
+    outline: 1 px solid;
+    
+}
