@@ -6,7 +6,7 @@ This application is created using `PHP` `HTML` `CSS` `MySQL Database`.
 ### REQUIREMENTS  
 1. Xampp/Wamp 
 2. Enable Mysqli and apache server
-3. Database Access (Yu need to create your own databae , I have provided the code for the database)
+3. Database Access (You need to create your own databae , I have provided the code for the database)
 
 ### HOW TO DOWNLOAD Project 
 Clone Repsitory:
