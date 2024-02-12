@@ -1,6 +1,6 @@
 # login-registration-system-  
 Version `1.0`  
-This is a simple `authentication system in php`  
+This is a simple authentication system in php  
 This application is created using `PHP` `HTML` `CSS` `MySQL Database`.  
 
 ###REQUIREMENTS  
